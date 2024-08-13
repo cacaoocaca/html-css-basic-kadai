@@ -1,14 +1,10 @@
 html {
+  font-family: "Arail","Meiryo",sans-serif;
+  text-align: center;
   font-size: 20px ;
 }
 
-body {
-  font-family: "Arail","Meiryo",sans-serif;
-  text-align: center;
-}
-
-.google-fonts {
-  /*ここにGoogle Fontsを指定します*/
+#text-setting1 {
   font-family: "Josefin Sans",sans-serif;
   font-style: normal;  
   text-align: center;
@@ -30,6 +26,6 @@ body {
   text-align: center;
 }
 
-#parent p {
+#text-setting2 p {
   font-weight: bold;
 }
