@@ -8,11 +8,14 @@ body {
   /*ここにGoogle Fontsを指定します*/
   font-family: "Josefin Sans",sans-serif;
   font-style: normal;  
-  font-size: 40px ;
   text-align: center;
   letter-spacing: 1.2em;
   text-shadow: 1px 1px 2px purple;
   border-bottom: solid 3px rgb(115,115,114);
+}
+
+h1{
+  font-size: 2em ;
 }
 
 .text-pink {
@@ -26,7 +29,7 @@ body {
 .decoration {
   text-align: center;
 }
-/*parentクラスの子要素に以下書式が適用される*/
+
 #parent p {
   font-weight: bold;
 }
